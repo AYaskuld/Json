@@ -1,1 +1,15 @@
-
+{
+  "bug_report_structure" :
+  [
+    "Id",
+    "Summary",
+    "Description",
+    "Preconditions",
+    "Environment",
+    "Step to reproduce",
+    "Expected result",
+    "Attachments"
+    "Severity",
+    "Priority"
+   ]
+}
