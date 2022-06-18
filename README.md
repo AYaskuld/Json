@@ -34,7 +34,7 @@ touch new.json
 ```
 **4. Добавить файл под гит.**  
 ```bash
-git add --a
+git add --all
 ```
 **5. Закоммитить файл.**  
 ```bash
@@ -66,12 +66,12 @@ ctrl+x, y, enter
 ```bash
 nano skills.json
 ```
-ддобавляю содержимое
+добавляю содержимое
 ctrl+x, y, enter
 
 **12. Сделать коммит в одну строку.**  
 ```bash
-git commit --a|git commit -m add_pred_skills
+git add --all|git commit -m add_pred_skills
 ```
 **13. Отправить сразу 2 файла на внешний репозиторий.**  
 ```bash
